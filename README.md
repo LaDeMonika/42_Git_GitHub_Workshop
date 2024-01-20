@@ -10,5 +10,5 @@ This repositorie is for learning how to do team work
 <li>how to push to github</li>
 <li>how to branch</li>
 <li>.gitignore file</li>
-<li>git pull = git fetch + git merge: <p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DKmagW60Li-o&psig=AOvVaw0vzDCCTntdj0zTiWrub8Vs&ust=1705856633719000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjctrG57IMDFQAAAAAdAAAAABAj"></p></li>
+<li>git pull = git fetch + git merge: <p><img src="https://i.ytimg.com/vi/KmagW60Li-o/maxresdefault.jpg"></p></li>
 </ul>
