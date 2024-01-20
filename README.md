@@ -7,5 +7,6 @@ This repositorie is for learning how to do team work
 <p>This is to do list:<br>
 	<ul>
 		<li>check merge conflict</li>
+		<li>blabla</li>
 	</ul>
 </p>
