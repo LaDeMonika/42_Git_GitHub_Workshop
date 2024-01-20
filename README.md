@@ -23,6 +23,8 @@ _________
 _________
 
 This is to do list:
+- git branch -r (-a is all remote and locally)----> to see all remote branches that you don't have locally
+- how to pull branches so you have them locally?? (command)
 - check merge conflict
 - && for running 2 commands (first then second)
 - how to push to github
