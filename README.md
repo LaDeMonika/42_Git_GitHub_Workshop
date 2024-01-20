@@ -3,6 +3,7 @@
 This repositorie is for workshop on how to do team work
 - <a href="https://learngitbranching.js.org" target="_blank">Vizualizer</a>
 - <a href="https://miro.com/welcomeonboard/ZFdFdXRNNXViZmlYcVpuSUwxbEJlVkhnNlVEa0hZVTY4UlhzelhSQTVqYlYxV1pYbzBna2UySndXMmxFem45NHwzNDU4NzY0NTc1NzUxNTA0Njc5fDI=?share_link_id=351684285921" target="_blank">Miro</a>
+- <a href="https://www.youtube.com/watch?v=0chZFIZLR_0" target="_blank">Git branch, rebase, squesh</a>
 
 _________
 ### Part I |  GitHub
