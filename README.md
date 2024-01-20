@@ -11,7 +11,7 @@ This repositorie is for learning how to do team work
 		<li>blabla</li>
 	</ul>
 </p>
-=======
+
 
 
 <ul>
