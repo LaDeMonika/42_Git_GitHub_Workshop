@@ -12,6 +12,7 @@ This repositorie is for learning how to do team work | Workshop
 		<li>blaaaaa</li>
 		<li>let's update this</li>
 		<li>i changed this after forking. pull me</li>
+		<li>why my name not in network graph :(</li>
 	</ul>
 
 <ul>
