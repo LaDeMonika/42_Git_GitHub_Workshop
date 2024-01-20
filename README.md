@@ -10,7 +10,7 @@ This repositorie is for learning how to do team work
 		<li>blabla</li>
 		<li>asdkaksdhda</li>
 		<li>another line</li>
-		<li>blaaaaa<\li>
+		<li>blaaaaa</li>
 	</ul>
 
 <ul>
