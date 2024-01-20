@@ -9,6 +9,7 @@ This repositorie is for learning how to do team work
 		<li>check merge conflict</li>
 		<li>blabla</li>
 		<li>asdkaksdhda</li>
+		<li>another line</li>
 	</ul>
 </p>
 
