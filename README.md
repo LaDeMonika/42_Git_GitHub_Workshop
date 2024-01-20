@@ -12,9 +12,6 @@ This repositorie is for learning how to do team work
 		<li>another line</li>
 		<li>blaaaaa<\li>
 	</ul>
-</p>
-
-
 
 <ul>
 <li>how to push to github</li>
@@ -22,4 +19,4 @@ This repositorie is for learning how to do team work
 <li>.gitignore file</li>
 <li>git pull = git fetch + git merge: <p><img src="https://i.ytimg.com/vi/KmagW60Li-o/maxresdefault.jpg"></p></li>
 </ul>
-
+</p>
