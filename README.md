@@ -33,6 +33,6 @@ This is to do list:
 - how to branch
 - .gitignore file
 - git pull = git fetch + git merge:
-<img src="https://i.ytimg.com/vi/KmagW60Li-o/maxresdefault.jpg" heigt="500" width="600">
+<img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/423a6d62-7613-4d21-ba2c-e9d4d87c30b1" heigt="500" width="600">
 
 
