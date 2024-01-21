@@ -4,18 +4,16 @@ This repositorie is for workshop on how to do team work
 - <a href="https://learngitbranching.js.org" target="_blank">Vizualizer</a>
 - <a href="https://miro.com/welcomeonboard/ZFdFdXRNNXViZmlYcVpuSUwxbEJlVkhnNlVEa0hZVTY4UlhzelhSQTVqYlYxV1pYbzBna2UySndXMmxFem45NHwzNDU4NzY0NTc1NzUxNTA0Njc5fDI=?share_link_id=351684285921" target="_blank">Miro</a>
 - <a href="https://www.youtube.com/watch?v=0chZFIZLR_0" target="_blank">Git branch, rebase, squesh</a>
-<br><br>Branches:
-<img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/9996e004-5db5-4f1f-944a-ac431fa4aa16" width="600" height="300">
 
 _________
 ### Part I |  GitHub
 - Bla bla
-<img src="" width="100" height="100">
+<img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/db52c005-1150-4e9e-9797-52f510dfdace" width="600" height="450">
 
 _________
 ### Part II |  Branch, marge
 - Bla bla
-<img src="" width="600" height="300">
+<img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/9996e004-5db5-4f1f-944a-ac431fa4aa16" width="600" height="300">
 
 _________
 ### Part III |  Marge conflict
