@@ -25,7 +25,12 @@ _________
 
 This is to do list:
 - git branch -r (-a is all remote and locally)----> to see all remote branches that you don't have locally
-- how to pull branches so you have them locally?? (command)
+- how to pull branches so you have them locally?? (command) 
+    - create, track and switch at the same time: 
+        1. git checkout -b <local-branch-name> --track origin/<remote-branch-name>
+        2. git switch -c <local-branch-name> --track origin/<remote-branch-name>
+    - create and track but dont't switch to new branch:
+        - git branch --track <local-branch-name> origin/<remote-branch-name>
 - check merge conflict
 - && for running 2 commands (first then second)
 - how to push to github
