@@ -4,6 +4,8 @@ This repositorie is for workshop on how to do team work
 - <a href="https://learngitbranching.js.org" target="_blank">Vizualizer</a>
 - <a href="https://miro.com/welcomeonboard/ZFdFdXRNNXViZmlYcVpuSUwxbEJlVkhnNlVEa0hZVTY4UlhzelhSQTVqYlYxV1pYbzBna2UySndXMmxFem45NHwzNDU4NzY0NTc1NzUxNTA0Njc5fDI=?share_link_id=351684285921" target="_blank">Miro</a>
 - <a href="https://www.youtube.com/watch?v=0chZFIZLR_0" target="_blank">Git branch, rebase, squesh</a>
+<br><br>Branches:
+<img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/9996e004-5db5-4f1f-944a-ac431fa4aa16" width="600" height="300">
 
 _________
 ### Part I |  GitHub
@@ -13,12 +15,12 @@ _________
 _________
 ### Part II |  Branch, marge
 - Bla bla
-<img src="" width="100" height="100">
+<img src="" width="600" height="300">
 
 _________
 ### Part III |  Marge conflict
-- 
-<img src="" width="100" height="100">
+- Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
+<img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/4f53b2ec-6894-4094-83dc-adfc55a517ec" width="600" height="300">
 
 _________
 
@@ -32,3 +34,5 @@ This is to do list:
 - .gitignore file
 - git pull = git fetch + git merge:
 <img src="https://i.ytimg.com/vi/KmagW60Li-o/maxresdefault.jpg" heigt="500" width="600">
+
+
