@@ -21,10 +21,10 @@ _________
 	<ul><li>git branch -r (-a is all remote and locally)----> to see all remote branches that you don't have locally</li></ul>
 	<ul><li>how to pull branches so you have them locally?? (command)
 		<ul><li>create, track and switch at the same time:
-			<li>git checkout -b [local-branch-name] --track origin/[remote-branch-name]</li>
+			<ul><li>git checkout -b [local-branch-name] --track origin/[remote-branch-name]</li>
 			<li>git switch -c [local-branch-name] --track origin/[remote-branch-name]</li></li></ul>
 		<ul><li>create and track but dont't switch to new branch:
-			<li>git branch --track [local-branch-name] origin/[remote-branch-name]</li>
+			<ul><li>git branch --track [local-branch-name] origin/[remote-branch-name]</li></ul>
 		</li></ul>
 	</li></ul>
 </li>
