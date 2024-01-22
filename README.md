@@ -18,15 +18,15 @@ _________
 <img src="https://brown-ccv.github.io/honeycomb-docs/assets/images/git_basics-8ba67841533472790a3ef4038aa47323.png" width="600" height="300">
 <li>Branching:
 <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/9996e004-5db5-4f1f-944a-ac431fa4aa16" width="600" height="300">
-	<li>git branch -r (-a is all remote and locally)----> to see all remote branches that you don't have locally</li>
-	<li>how to pull branches so you have them locally?? (command)
-		<li>create, track and switch at the same time:
+	<ul><li>git branch -r (-a is all remote and locally)----> to see all remote branches that you don't have locally</li></ul>
+	<ul><li>how to pull branches so you have them locally?? (command)
+		<ul><li>create, track and switch at the same time:
 			<li>git checkout -b [local-branch-name] --track origin/[remote-branch-name]</li>
-			<li>git switch -c [local-branch-name] --track origin/[remote-branch-name]</li></li>
-		<li>create and track but dont't switch to new branch:
+			<li>git switch -c [local-branch-name] --track origin/[remote-branch-name]</li></li></ul>
+		<ul><li>create and track but dont't switch to new branch:
 			<li>git branch --track [local-branch-name] origin/[remote-branch-name]</li>
-		</li>
-	</li>
+		</li></ul>
+	</li></ul>
 </li>
 </ul>
 
