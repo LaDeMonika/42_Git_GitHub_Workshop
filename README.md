@@ -11,8 +11,9 @@ _________
 <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/db52c005-1150-4e9e-9797-52f510dfdace" width="600" height="450">
 
 _________
-### Part II |  Branch, marge
-- Bla bla
+### Part II |  Overview, Branch, marge
+- General Workflow:
+<img src="https://brown-ccv.github.io/honeycomb-docs/assets/images/git_basics-8ba67841533472790a3ef4038aa47323.png" width="600" height="300">
 <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/9996e004-5db5-4f1f-944a-ac431fa4aa16" width="600" height="300">
 
 _________
@@ -25,8 +26,8 @@ _________
 
 This is to do list:
 - git branch -r (-a is all remote and locally)----> to see all remote branches that you don't have locally
-- how to pull branches so you have them locally?? (command) 
-    - create, track and switch at the same time: 
+- how to pull branches so you have them locally?? (command)
+    - create, track and switch at the same time:
         1. git checkout -b <local-branch-name> --track origin/<remote-branch-name>
         2. git switch -c <local-branch-name> --track origin/<remote-branch-name>
     - create and track but dont't switch to new branch:
