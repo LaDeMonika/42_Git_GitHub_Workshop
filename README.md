@@ -1,4 +1,3 @@
-<div style="background-color:pink">
 # Git&GitHub Workshop
 
 First, that's not really important, but Git doesn't actually record changes, but rather snapshots of our files (at least conceptually; it will use packfiles to store things efficiently and will actually store changes –diffs– in some cases), and will generate diffs on-demand. This sometimes shows in the result of some commands though (like why some commands show one file removed and another added, while other commands show a file being renamed).
@@ -45,9 +44,3 @@ This is to do list:
 - .gitignore file
 - git pull = git fetch + git merge:
 <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/423a6d62-7613-4d21-ba2c-e9d4d87c30b1" heigt="500" width="600">
-
-
-</div>
-
-let's see what happens to this line if i do rebase
-different
