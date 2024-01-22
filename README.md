@@ -13,22 +13,19 @@ _________
 
 _________
 ### Part II |  Overview, Branch, marge
-<ul>
-<li>General Workflow: </li>
+
+General Workflow:
 <img src="https://brown-ccv.github.io/honeycomb-docs/assets/images/git_basics-8ba67841533472790a3ef4038aa47323.png" width="600" height="300">
-<li>Branching:
+Branching:
 <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/9996e004-5db5-4f1f-944a-ac431fa4aa16" width="600" height="300">
-	<ul><li>git branch -r (-a is all remote and locally)----> to see all remote branches that you don't have locally</li></ul>
-	<ul><li>how to pull branches so you have them locally?? (command)
-		<ul><li>create, track and switch at the same time:
-			<ul><li>git checkout -b [local-branch-name] --track origin/[remote-branch-name]</li>
-			<li>git switch -c [local-branch-name] --track origin/[remote-branch-name]</li></li></ul>
-		<ul><li>create and track but dont't switch to new branch:
-			<ul><li>git branch --track [local-branch-name] origin/[remote-branch-name]</li></ul>
-		</li></ul>
-	</li></ul>
-</li>
-</ul>
+	- git branch -r (-a is all remote and locally)----> to see all remote branches that you don't have locally
+	- how to pull branches so you have them locally?? (command)
+	 - create, track and switch at the same time:
+	  - git checkout -b [local-branch-name] --track origin/[remote-branch-name]
+	  - git switch -c [local-branch-name] --track origin/[remote-branch-name]
+	 - create and track but dont't switch to new branch:
+	  - git branch --track [local-branch-name] origin/[remote-branch-name]
+
 
 _________
 ### Part III |  Marge conflict
