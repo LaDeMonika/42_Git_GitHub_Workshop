@@ -13,7 +13,17 @@ First, that's not really important, but Git doesn't actually record changes, but
 
 _________
 ### Part I |  GitHub  |  Kamilla
-- Bla bla
+If you want to take your projects home after Piscine:
+- Create GitHub account
+    - Go to Settings -> SSH and GPG keys
+    - Get you SSH key from Shell00 ex03!
+    - Go to New SSH key & copy it
+    - Go to "Your repositories" -> New (put settings as you want them)
+    - After the repo is created, click on green button "Code" on repository page and copy the line under Local -> SSH
+    - Clone your repository in terminal
+    - Put all folders & files you want into local repo, then git add, commit & push
+    - You are done!!
+
 <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/db52c005-1150-4e9e-9797-52f510dfdace" width="600" height="450">
 
 _________
