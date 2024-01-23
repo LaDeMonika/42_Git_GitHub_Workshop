@@ -1,5 +1,7 @@
 # Git workflow
-### Branches
+### Part II |  Branches
+
+
 HEAD -> currently active or checked out branch.
 
 SHA -> Secure Hash Algorithm
@@ -21,29 +23,32 @@ SHA -> Secure Hash Algorithm
 - Merging branches:
     - git switch main -> change to branch that should receive changes
     - git merge <branch_name> -> name of the branch you want the changes from
-    when you merge sometimes you get opened editor and that's because merge sometimes produce new commit and makes standard message "merge branch 'branch_name'"
+      when you merge sometimes you get opened editor and that's because merge sometimes produce new commit and makes standard message "merge branch 'branch_name'"
 
 - Comparing branches:
-    - git log main..<branch_name> -> This shows the commits that are in ‘branch_name’ but not in ‘main’.
-    - git log origin/main..main -> This command compares the local ‘main’ with the remote-tracking branch ‘origin/main’.
+    - git log main..<branch_name> -> This shows the commits that are in ‘branch_name’
+      but not in ‘main’.
+    - git log origin/main..main -> This command compares the local ‘main’ with the
+      remote-tracking branch ‘origin/main’.
 
 - Deleting branches:
     
-    YOU CAN'T DELETE CURRENT HEAD BRANCH!
-    
-    YOU CAN FORCE DO DELETE BRANCHES THAT CONTAIN ALREADY SOME COMMITS.
-    - locally:
+    YOU CAN'T DELETE CURRENT HEAD, BRANCH THAT YOU ARE ON!
+    - LOCAL:
         - git branch -d <branch_name> -> deleting branches safe.
         - git branch -D <branch_name> -> If you are sure you want to delete it.
-    - remote:
-        - git push origin --delete <remote_branch_name> -> make sure if you delete remote branch to delete also local branch, otherwise it makes no sense.
+    - REMOTE:
+        - git push origin --delete <remote_branch_name> -> make sure if you delete
+          remote branch to delete also local branch, otherwise it makes no sense.
 
 - Renaming LOCAL branches:
     - git branch -m <new_branch_name> -> rename current, HEAD brunch.
     - git branch -m <old_branch> <new_name> -> non HEAD branch that you want to rename.
 
 - Renaming REMOTE branches:
+
     DELETING REMOTE BRANCHES -> GIT DON'T ALLOW IT, SO IT'S COMPLICATED
+
     DELETE FROM REMOTE AND REUPLOAD IT.
     - git push --delete <old_name> -> first delete old remote branch.
     - git push -u origin <new_name> -> then pushing new local branch with new/current name.
