@@ -1,16 +1,17 @@
 # Git&GitHub Workshop
 
-Kamila: GitHub
+#### Kamila: GitHub
 
-Monika: Branches
+#### Monika: Branches
 
-Lilie: Conflicts
+#### Lilie: Conflicts
 
-First, that's not really important, but Git doesn't actually record changes, but rather snapshots of our files (at least conceptually; it will use packfiles to store things efficiently and will actually store changes –diffs– in some cases), and will generate diffs on-demand. This sometimes shows in the result of some commands though (like why some commands show one file removed and another added, while other commands show a file being renamed).
+_________
+
+Useful links: 
 - <a href="https://learngitbranching.js.org" target="_blank">Vizualizer</a>
-- <a href="https://miro.com/welcomeonboard/ZFdFdXRNNXViZmlYcVpuSUwxbEJlVkhnNlVEa0hZVTY4UlhzelhSQTVqYlYxV1pYbzBna2UySndXMmxFem45NHwzNDU4NzY0NTc1NzUxNTA0Njc5fDI=?share_link_id=351684285921" target="_blank">Miro</a>
+- <a href="https://www.youtube.com/watch?v=2qwx59b25V4" target="_blank">Use git on your personal device [.gitconfig]</a>
 - <a href="https://www.youtube.com/watch?v=0chZFIZLR_0" target="_blank">Git branch, rebase, squesh</a>
-
 _________
 ### Part I |  GitHub  |  Kamilla
 If you want to take your projects home after Piscine:
