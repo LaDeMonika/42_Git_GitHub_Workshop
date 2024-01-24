@@ -1,4 +1,4 @@
-# Git&GitHub Workshop
+# Git&GitHub Workshop TODAY
 
 Kamila: GitHub
 
@@ -83,6 +83,8 @@ _________
 <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/337650fc-581a-41b2-b086-0d33056a6201" width="600" height="300">
 
 _________
+
+### Part IV |  Overview  |  Lilie
 
 This is to do list:
 
