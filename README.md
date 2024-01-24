@@ -1,4 +1,4 @@
-# Git & GitHub Workshop TODAY
+# Git&GitHub Workshop
 
 Kamila: GitHub
 
@@ -77,14 +77,38 @@ SHA -> Secure Hash Algorithm
     - git push -u origin <new_name> -> then pushing new local branch with new/current name.
 
 _________
-### Part III |  Marge conflict  |  Lilie
+### Part III |  Merge conflict  |  Lilie
 - Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
 <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/4f53b2ec-6894-4094-83dc-adfc55a517ec" width="600" height="300">
-<img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/337650fc-581a-41b2-b086-0d33056a6201" width="600" height="300">
 
+- Live-Demo:
+     - create, track & demonstrate side-branch:
+        - git branch upgrade
+        - git push -u origin upgrade
+        - git log & show on network graph
+     - change file in main-branch:
+        - fix typo in readme
+        - git add . + git commit + git push
+        - git log & show on network graph
+    - change to side-branch & change file:
+        - git checkout upgrade
+        - upgrade readme file
+        - git add . + git commit + git push
+        - git log & show on network graph
+    - change to main-branch & merge:
+        - git checkout main
+        - git merge upgrade
+        - CONFLICT: manual fix & show auto-resolved position
+        - <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/337650fc-581a-41b2-b086-0d33056a6201" width="600" height="300">
+        
+        - git add . + git merge --continue + enter commit message + git push
+        - git log & show on network graph
+- How to avoid conflicts:
+    - dont make big changes in main branch
+    - if you work with other people:
+        - fetch/pull first
+        - work on different branches and/or in different files
 _________
-
-### Part IV |  Overview  |  Lilie
 
 This is to do list:
 
