@@ -72,8 +72,11 @@ _________
         - git checkout main
         - git merge upgrade
         - CONFLICT: manual fix & show auto-resolved position
-        - <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/337650fc-581a-41b2-b086-0d33056a6201" width="600" height="300">
-        
+      <br>
+        <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/337650fc-581a-41b2-b086-0d33056a6201" width="600" height="300">
+      <br>
+      <br>
+      
         - git add . + git merge --continue + enter commit message + git push
         - git log & show on network graph
 - How to avoid conflicts:
@@ -81,15 +84,5 @@ _________
     - if you work with other people:
         - fetch/pull first
         - work on different branches and/or in different files
-_________
 
-This is to do list:
-
-
-- check merge conflict
-- && for running 2 commands (first then second)
-- how to push to github
-- how to branch
-- .gitignore file
-- git pull = git fetch + git merge:
 <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/423a6d62-7613-4d21-ba2c-e9d4d87c30b1" heigt="500" width="600">
