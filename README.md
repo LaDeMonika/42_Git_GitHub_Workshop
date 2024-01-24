@@ -52,7 +52,7 @@ SHA -> Secure Hash Algorithm
 _________
 ### Part III |  Merge conflict  |  Lilie
 - Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
-        <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/4f53b2ec-6894-4094-83dc-adfc55a517ec" width="600" height="300">
+<img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/4f53b2ec-6894-4094-83dc-adfc55a517ec" width="600" height="300">
 
 - Live-Demo:
      - create, track & demonstrate side-branch:
