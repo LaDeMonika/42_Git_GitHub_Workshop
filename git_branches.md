@@ -17,8 +17,6 @@ SHA -> Secure Hash Algorithm
 - Pulling + Pushing Branches (Synchronising your local + remote branches):
     - git pull -> pull commits that you don't have locally (combination of git fetch + git merge)
     - git push -> push commits that you don't have remotely
-    - git branch -v -> shows if your local branch is ahead or/and behind:
-        - *branch SHA [ahead 1, behind 2] -> "ahead 1" means I have local commits that are not pushed yet, and, "behind 2" means I am behind remote and there are new commits that I haven't pulled
 
 - Merging branches:
     - git switch main -> change to branch that should receive changes
