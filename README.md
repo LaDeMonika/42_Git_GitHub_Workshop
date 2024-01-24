@@ -85,4 +85,3 @@ _________
         - fetch/pull first
         - work on different branches and/or in different files
 
-        <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/423a6d62-7613-4d21-ba2c-e9d4d87c30b1" heigt="500" width="600">
