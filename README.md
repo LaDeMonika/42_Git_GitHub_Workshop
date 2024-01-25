@@ -20,7 +20,7 @@ If you want to take your projects home after Piscine:
     - Get your SSH key from Shell00 ex03!
         - Even if the project is finished, you can still clone your repository from project page
         - IF that doesn't work for some reason: you can find your SSH key on computer.
-            - Go to Home directory, in setting select: Show hidden files
+            - Go to Home directory, in settings select: Show hidden files
             - Look for the folder: .ssh
             - Open id_rsa.pub (your PUBLIC key) and it is inside
     - Go back to GitHub, select New SSH key & copy it
@@ -28,6 +28,7 @@ If you want to take your projects home after Piscine:
     - After the repo is created, click on green button "Code" on repository page and copy the line under Local -> SSH
     - Clone your repository in terminal
     - Put all folders & files you want into local repo, then git add, commit & push
+        - If you are copying from another local repository, be careful not to copy the .git folder
     - You are done!!
 
 There is also a way to link the remote repository you created now with your local repos that are already linked to your 42 remote repos.
