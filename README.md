@@ -1,4 +1,4 @@
-# Git&GitHub Workshop
+# Git & GitHub Workshop
 
 #### Kamila: GitHub
 
