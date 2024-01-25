@@ -1,6 +1,7 @@
 # Git workflow
 ### Part II |  Branches
 
+https://docs.google.com/document/d/1wmPBzq3qBdVTSezQsrkdoi-_47GtA-Da0WMA9Du0E3w/edit?usp=sharing
 
 HEAD -> currently active or checked out branch.
 
