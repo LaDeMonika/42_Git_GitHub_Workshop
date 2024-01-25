@@ -1,4 +1,4 @@
-# Git & GitHub Workshop
+# Git & GitHub Workshop TODAY
 
 #### Kamila: GitHub
 
@@ -104,3 +104,4 @@ _________
         - fetch/pull first
         - work on different branches and/or in different files
 
+### Part IV |  Summary  |  Lilie
