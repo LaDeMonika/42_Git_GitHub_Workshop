@@ -46,7 +46,8 @@ SHA -> Secure Hash Algorithm
 
 - Merging branches:
     - git switch main -> change to branch that should receive changes
-    - git merge <branch_name> -> name of the branch you want the changes from
+    - git merge <branch_name> -> name of the branch you want the changes from.
+
       when you merge sometimes you get opened editor and that's because merge sometimes produce new commit and makes standard message "merge branch 'branch_name'"
 
 _________
