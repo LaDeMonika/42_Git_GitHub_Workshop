@@ -10,7 +10,7 @@ _________
 
 Useful links:
 - <a href="https://learngitbranching.js.org" target="_blank">Vizualizer</a>
-- <a href="https://www.youtube.com/watch?v=2qwx59b25V4" target="_blank">Use git on your personal device [.gitconfig]</a>
+- <a href="https://www.youtube.com/watch?v=2qwx59b25V4" target="_blank">Use Git&GitHub on your personal device [gitconfig]</a>
 - <a href="https://www.youtube.com/watch?v=l2yrJtwoC_E&t=1373s">Learn Git and GitHub Tutorial For Beginners | Full Course [2024]</a>
 - <a href="https://www.youtube.com/watch?v=0chZFIZLR_0" target="_blank">Git branch, rebase, squesh</a>
 _________
