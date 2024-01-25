@@ -1,5 +1,5 @@
 # Git&GitHub Workshop
-1
+
 #### Kamila: GitHub
 
 #### Monika: Branches
