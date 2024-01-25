@@ -29,12 +29,12 @@ SHA -> Secure Hash Algorithm
 - Deleting branches:
     
     YOU CAN'T DELETE CURRENT HEAD, BRANCH THAT YOU ARE ON!
-    - LOCAL:
-        - git branch -d <branch_name> -> deleting branches safe.
-        - git branch -D <branch_name> -> If you are sure you want to delete it.
     - REMOTE:
         - git push origin --delete <remote_branch_name> -> make sure if you delete
           remote branch to delete also local branch.
+    - LOCAL:
+        - git branch -d <branch_name> -> deleting branches safe.
+        - git branch -D <branch_name> -> If you are sure you want to delete it.
 
 -----------------------------------------------------------
 
