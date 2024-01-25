@@ -1,5 +1,5 @@
-# Git & GitHub Workshop TODAY
-1
+# Git & GitHub Workshop
+
 #### Kamila: GitHub
 
 #### Monika: Branches
@@ -67,7 +67,7 @@ _________
 - Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
 <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/4f53b2ec-6894-4094-83dc-adfc55a517ec" width="600" height="300">
 
-- Live-Demo:
+- Live-Demo of resolving local merge conflict between main-branch and side-branch:
      - create, track & demonstrate side-branch:
         - git branch upgrade
         - git push -u origin upgrade
@@ -93,15 +93,18 @@ _________
         - git add . + git merge --continue + enter commit message + git push
         - git log & show on network graph
 
-- Optional:
-    - git rebase locally
-    - 2 repos + merge conflict:
-    - stash + pull + stash apply
+- Instead of merging you can also rebase. What is the difference?
+    - merge: combines two commit histories and creates a new commit "merge"
+        - syntax: when you're in the main-branch type "git merge <side-branch>" -> this means: "merge side-branch into the main-branch"
+    - rebase: changes the commit history of one branch, so that it looks like there were never diverging commits. instead if will "put on commit on top of the other". 
+        - syntax: when you're in the side-branch type "git rebase <main-branch>" -> this means: "rebase the side-branch onto the main-branch"
+        - this command will move the base of the side-branch to the tip of the main-branch and rewrite the commit history of the side-branch.
+        - with rebase you usually have to use "git push --force" afterwards to push it to your remote repository. so be very careful with this command, because it will also overwrite the remote commit history!
 
-- How to avoid conflicts:
-    - dont make big changes in main branch
-    - if you work with other people:
-        - fetch/pull first
-        - work on different branches and/or in different files
+- How to avoid conflicts, especially if you work in a team:
+    - work on different branches and/or in different files
+    - avoid working directly on main branch, and if you do, only implement small changes. 
+    - always fetch/pull first before you push your changes
 
-### Part IV |  Summary  |  Lilie
+### Part III |  Merge conflict  |  Lilie
+
