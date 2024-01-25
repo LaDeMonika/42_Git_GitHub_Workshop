@@ -1,5 +1,5 @@
 # Git&GitHub Workshop
-
+1
 #### Kamila: GitHub
 
 #### Monika: Branches
@@ -8,7 +8,7 @@
 
 _________
 
-Useful links: 
+Useful links:
 - <a href="https://learngitbranching.js.org" target="_blank">Vizualizer</a>
 - <a href="https://www.youtube.com/watch?v=2qwx59b25V4" target="_blank">Use git on your personal device [.gitconfig]</a>
 - <a href="https://www.youtube.com/watch?v=0chZFIZLR_0" target="_blank">Git branch, rebase, squesh</a>
@@ -89,7 +89,7 @@ _________
         <img src="https://github.com/LaDeMonika/42_TeamWork/assets/128793184/337650fc-581a-41b2-b086-0d33056a6201" width="600" height="300">
       <br>
       <br>
-      
+
         - git add . + git merge --continue + enter commit message + git push
         - git log & show on network graph
 
@@ -97,7 +97,7 @@ _________
     - git rebase locally
     - 2 repos + merge conflict:
     - stash + pull + stash apply
-    
+
 - How to avoid conflicts:
     - dont make big changes in main branch
     - if you work with other people:
