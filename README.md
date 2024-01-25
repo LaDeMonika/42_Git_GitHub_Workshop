@@ -92,6 +92,12 @@ _________
       
         - git add . + git merge --continue + enter commit message + git push
         - git log & show on network graph
+
+- Optional:
+    - git rebase locally
+    - 2 repos + merge conflict:
+    - stash + pull + stash apply
+    
 - How to avoid conflicts:
     - dont make big changes in main branch
     - if you work with other people:
