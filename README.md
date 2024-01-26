@@ -96,9 +96,9 @@ _________
 
 - Instead of merging you can also rebase. What is the difference?
     - merge: combines two commit histories and creates a new commit "merge"
-        - syntax: when you're in the main-branch type "git merge <side-branch>" -> this means: "merge side-branch into the main-branch"
+        - syntax: when you're in the main-branch type "git merge <side_branch>" -> this means: "merge side-branch into the main-branch"
     - rebase: changes the commit history of one branch, so that it looks like there were never diverging commits. instead if will "put on commit on top of the other". 
-        - syntax: when you're in the side-branch type "git rebase <main-branch>" -> this means: "rebase the side-branch onto the main-branch"
+        - syntax: when you're in the side-branch type "git rebase <main_branch>" -> this means: "rebase the side-branch onto the main-branch"
         - this command will move the base of the side-branch to the tip of the main-branch and rewrite the commit history of the side-branch.
         - with rebase you usually have to use "git push --force" afterwards to push it to your remote repository. so be very careful with this command, because it will also overwrite the remote commit history!
 
@@ -107,5 +107,10 @@ _________
     - avoid working directly on main branch, and if you do, only implement small changes. 
     - always fetch/pull first before you push your changes
 
-### Part III |  Merge conflict  |  Lilie
+### Part IV |  Other useful commands  |  Lilie
+- going back to an older version:
+    - git reset --hard origin/<branch_name> -> resets everything to the version of the remote repo of current branch
+    - git reset --hard <commit_ID> -> resets everything to the commit that you specify with <commit_ID>
+    - git reset --soft <commit_ID> -> resets your commit history to the commit you specify, but keeps the changes you made afterwards. so it's like uncommiting everything after <commit_ID>
+    - git restore --staged <file> -> unstages <file>, so it's like un-doing "add <file>"
 
