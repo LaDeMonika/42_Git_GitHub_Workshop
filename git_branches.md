@@ -11,7 +11,14 @@ SHA -> Secure Hash Algorithm
     - git checkout <other_branch> -> checkout is used for many other things, but in this case is used to switch between branches.
     - git switch <other_branch> -> switch has only one purpose, switching between branches.
 
+- See all remote/local branches:
+    - git branch -> to see local branch names
+    - git branch -r -> to see all remote branch names
+    - git branch -a -> to see all local and remote branches
+
 - Tracking branches:
+    - git fetch origin <remote-branch> -> first we need to fetch the remote branch using
+    - git checkout -b <local-branch> origin/<remote-branch> -> Then just create a new local branch to track the remote branch
     - git push -u origin <local_branch> -> publishing existing local branch on a remote repo
     - git checkout --track origin/<existing_branch> -> Creating new local & connecting existing remote branch with each other - remote to local
 
