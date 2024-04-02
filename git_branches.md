@@ -1,4 +1,4 @@
-# Git workflow
+# Git cmd
 ### Part II |  Branches
 
 https://docs.google.com/document/d/1wmPBzq3qBdVTSezQsrkdoi-_47GtA-Da0WMA9Du0E3w/edit?usp=sharing
