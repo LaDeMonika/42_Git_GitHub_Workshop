@@ -21,6 +21,8 @@ SHA -> Secure Hash Algorithm
     - git checkout -b <local-branch> origin/<remote-branch> -> Then just create a new local branch to track the remote branch
     - git push -u origin <local_branch> -> publishing existing local branch on a remote repo
     - git checkout --track origin/<existing_branch> -> Creating new local & connecting existing remote branch with each other - remote to local
+    - git switch -c <new-branch> <start-point> -> <start-point> is your remote branch, for example origin/main
+    - git switch remote-branch -> in case you want to simply create a local branch from a remote one
 
 - Pulling + Pushing Branches (Synchronising your local + remote branches):
     - git pull -> pull commits that you don't have locally (combination of git fetch + git merge)
